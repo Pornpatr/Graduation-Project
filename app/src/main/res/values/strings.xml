@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectEstimoteApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="setting_fragment">Setting Fragment</string>
+</resources>

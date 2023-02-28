@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653752485600",
+    "firebase_url": "https://esp8266firebase-4386b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp8266firebase-4386b",
+    "storage_bucket": "esp8266firebase-4386b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653752485600:android:e465395c6379856a5bf285",
+        "android_client_info": {
+          "package_name": "com.example.projectestimoteapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653752485600-a589dj15du9jm9q16e4tv4oateoh0c9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8x8Vz-JQiUXY959SLHvfZccqT_NASs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653752485600-a589dj15du9jm9q16e4tv4oateoh0c9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

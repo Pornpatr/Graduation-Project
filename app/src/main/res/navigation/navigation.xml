@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/Homefragment">
+    <fragment
+        android:id="@+id/Homefragment"
+        android:name="com.example.projectestimoteapplication.fragment.Homefragment"
+        android:label="                      Home"
+        tools:layout="@layout/fragment_homefragment" />
+    <fragment
+        android:id="@+id/Historyfragment"
+        android:name="com.example.projectestimoteapplication.fragment.Historyfragment"
+        android:label="                      History"
+        tools:layout="@layout/fragment_historyfragment" />
+    <fragment
+        android:id="@+id/Settingfragment"
+        android:name="com.example.projectestimoteapplication.fragment.Settingfragment"
+        android:label="                      Setting"
+        tools:layout="@layout/fragment_settingfragment" />
+
+</navigation>
